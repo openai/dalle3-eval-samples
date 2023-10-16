@@ -1,0 +1,46 @@
+{
+  "/root/drawbench_upsampled/3/110_1.png": {
+    "correct": true,
+    "response": "The image depicts a small domesticated cat with soft fur, a short snout, and retractable claws, which aligns with the probable meaning of the scrambled caption, describing a domestic cat. There are slight spelling errors but the representation stays true to the intended description.\n\nCorrect"
+  },
+  "/root/drawbench_upsampled/3/172_0.png": {
+    "correct": true,
+    "response": "The image displays a magnifying glass over a page of a Batman comic with an old-fashioned arrangement and style, suggesting it could be from the 1950s. The magnifying glass is prominent and Batman characters can be seen under it.\n\nCorrect."
+  },
+  "/root/drawbench_upsampled/3/32_0.png": {
+    "correct": true,
+    "response": "The image clearly shows an elephant underwater among sea life, matching the caption \"An elephant under the sea.\" The elephant is not in its natural habitat, but the caption indicates an abnormal association, and the image faithfully depicts this.\nCorrect."
+  },
+  "/root/drawbench_upsampled/3/41_1.png": {
+    "correct": true,
+    "response": "The image depicts two dogs on the street, which aligns with the caption. One dog appears to be a Golden Retriever and the other a Beagle. They are both on the street and accompanied by people.\n\nCorrect."
+  },
+  "/root/drawbench_upsampled/3/137_3.png": {
+    "correct": true,
+    "response": "The term \"peristeronic\" refers to something related to pigeons. In the image, pigeons are clearly depicted, gathered on a rooftop. The image is consistent with the term.\n\nCorrect."
+  },
+  "/root/drawbench_upsampled/3/126_2.png": {
+    "correct": false,
+    "response": "The image depicts a car on the right of a bus, not on the left as the caption mentions. Therefore, the image is not faithful to the caption.\n\nIncorrect"
+  },
+  "/root/drawbench_upsampled/3/33_1.png": {
+    "correct": true,
+    "response": "The image shows a penguin that has been colored in a spectrum resembling a rainbow. This matches the description from the caption \"Rainbow coloured penguin.\" \n\nCorrect."
+  },
+  "/root/drawbench_upsampled/3/119_2.png": {
+    "correct": true,
+    "response": "The image shows a giraffe underneath a microwave. The giraffe and microwave are clearly depicted and match the description in the caption.\n\nCorrect."
+  },
+  "/root/drawbench_upsampled/3/82_0.png": {
+    "correct": true,
+    "response": "The image portrays a mechanical device with gears and cogs, which appears to be for measuring time. It seems well detailed and resembles an intricate clock mechanism. It aligns with the caption provided.\n\nCorrect"
+  },
+  "/root/drawbench_upsampled/3/172_1.png": {
+    "correct": true,
+    "response": "The image shows a magnifying glass over a page of a Batman comic. The style appears to be consistent with comics from the 1950s era, and Batman is recognizable in the panels. The magnifying glass is clearly over the comic page, enlarging part of it.\n\nCorrect."
+  },
+  "/root/drawbench_upsampled/3/91_3.png": {
+    "correct": true,
+    "response": "The image shows a large Bitcoin coin above a structure resembling a safe with computational storage. This adequately represents digital currency being generated through computational solutions, without any indication of central banking. \n\nCorrect."
+  }
+}

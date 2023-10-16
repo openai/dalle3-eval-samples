@@ -1,0 +1,62 @@
+{
+  "/root/drawbench_upsampled/sdxl_base_refiner/110_1.png": {
+    "correct": true,
+    "response": "The image is of a large cat with soft fur, short snout, and what appear to be retractable claws. There were some misspelled and scrambled words in the caption, but the image seems to portray a domesticated cat which matches the probable meaning of the caption.\n\nCorrect."
+  },
+  "/root/drawbench_upsampled/sdxl_base_refiner/172_0.png": {
+    "correct": true,
+    "response": "The image shows a magnifying glass over a page of a Batman comic which resembles the style used in the mid-20th century. It includes Batman in his classic costume and vintage comic panels.\n\nCorrect."
+  },
+  "/root/drawbench_upsampled/sdxl_base_refiner/32_0.png": {
+    "correct": true,
+    "response": "The image shows an elephant submerged in water with sea life and coral around it. This matches the description of \"an elephant under the sea\" from the caption.\n\nCorrect."
+  },
+  "/root/drawbench_upsampled/sdxl_base_refiner/41_1.png": {
+    "correct": true,
+    "response": "The image displays two dogs on a street with a woman holding their leashes. It faithfully represents the given caption. \n\nCorrect."
+  },
+  "/root/drawbench_upsampled/sdxl_base_refiner/137_3.png": {
+    "correct": true,
+    "response": "The image depicts pigeons, which are related to the word 'peristeronic', referring to things associated with pigeons. The depiction is relevant to the given rare single word.\n\nCorrect."
+  },
+  "/root/drawbench_upsampled/sdxl_base_refiner/126_2.png": {
+    "correct": true,
+    "response": "The image displays a scene where a car is on the left of a bus on the street. Both objects are depicted accurately and the position is as the caption described. Correct."
+  },
+  "/root/drawbench_upsampled/sdxl_base_refiner/33_1.png": {
+    "correct": true,
+    "response": "The image shows a penguin with rainbow colors. It matches the description provided in the caption as the penguin is colored vibrantly with different hues, resembling a rainbow.\n\nCorrect."
+  },
+  "/root/drawbench_upsampled/sdxl_base_refiner/119_2.png": {
+    "correct": true,
+    "response": "The image depicts a giraffe standing underneath a microwave which is placed on a stand, and matches the unusual association mentioned in the caption. \n\nCorrect."
+  },
+  "/root/drawbench_upsampled/sdxl_base_refiner/82_0.png": {
+    "correct": true,
+    "response": "The image shows an intricate mechanical device that is clearly meant for measuring time; it has a clock face with gears and cogs. This corresponds to the description in the caption.\n\nCorrect."
+  },
+  "/root/drawbench_upsampled/sdxl_base_refiner/172_1.png": {
+    "correct": true,
+    "response": "The image faithfully represents a magnifying glass over a page of a Batman comic, capturing the vintage style that could be from the 1950s.\n\nCorrect."
+  },
+  "/root/drawbench_upsampled/sdxl_base_refiner/91_3.png": {
+    "correct": true,
+    "response": "The image depicts a Bitcoin, which fits the description of a digital currency operating independently of a central bank that's based on computational records and mathematical problems.\n\nCorrect."
+  },
+  "/root/drawbench_upsampled/sdxl_base_refiner/80_3.png": {
+    "correct": true,
+    "response": "The image shows a chair with a back and four legs, it's a seat for one person. This aligns with the caption description.\n\nCorrect."
+  },
+  "/root/drawbench_upsampled/sdxl_base_refiner/35_0.png": {
+    "correct": true,
+    "response": "The image shows a street with buildings and one car. The caption specifies one car on the street, and that is accurately represented in the image.\n\nCorrect."
+  },
+  "/root/drawbench_upsampled/sdxl_base_refiner/51_0.png": {
+    "correct": false,
+    "response": "The image depicts two dogs and one cat sitting on the grass, not three cats and one dog as stated in the caption. Incorrect."
+  },
+  "/root/drawbench_upsampled/sdxl_base_refiner/80_0.png": {
+    "correct": true,
+    "response": "The image shows a chair with four legs and a back. It looks like a separate seat meant for one person. This fits the description given in the caption.\n\nCorrect."
+  }
+}
